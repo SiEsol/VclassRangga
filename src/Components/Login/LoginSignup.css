@@ -1,0 +1,139 @@
+.main{
+    display: flex;
+    padding-top: 45px;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    background: white;
+    border-radius: 30px;
+    height: 495px;
+    width: 664px;
+    box-shadow: 0px 0px 20px -5px rgb(186, 186, 186);
+}
+
+.left-side{
+    display: flex;
+    height: 461px;
+    width: 284px;
+    padding: 17px;
+}
+
+.right-side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 285px;
+    margin-left: 20px;
+    height: 100%;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 27px;
+}
+
+.text {
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 7px;
+}
+
+.text1 {
+    font-size: 16px;
+    font-weight: 100;
+    color: rgb(118, 118, 118);
+}
+
+.login-guest{
+    display: flex;
+    margin-top: 30px;
+    width: 266px;
+}
+
+.guest-text{
+    width: 266px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.guest-btn{
+    text-decoration: none;
+    color: rgb(0, 106, 255);
+}
+
+.login-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.input{
+    display: flex;
+    width: 266px;
+    height: 44px;
+    margin: 10px;
+}
+
+input{
+    border: none;
+    width: 266px;
+    font-size: 12px;
+    padding-left: 20px;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+    font-family: 'DM Sans';
+    height: 44px;
+}
+
+
+.login-btn{
+    display: flex;
+    border: none;
+    font-size: 18px;
+    font-weight:bolder;
+    color: white;
+    height: 44px;
+    background-color: rgb(1, 77, 255);
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    border-radius: 12px;
+    font-family: 'FONTSPRING DEMO - Greycliff CF Heavy';
+    width: 266px;
+    margin-top: 10px;
+}
+
+.forgot-password{
+    display: flex;
+    margin: 10px;
+    width: 266px;
+}
+
+.forgot-btn{
+    text-decoration: none;
+    margin-left: 165px;
+    color: rgb(111, 111, 111);
+    font-size: 13px;
+}
+
+.forgot-btn:hover{
+    color: rgb(55, 151, 255);
+}
+
+.login-btn:hover{
+    background-color: rgb(82, 108, 254);
+}
+
+.guest-btn:hover{
+    color: rgb(0, 149, 255);
+}
