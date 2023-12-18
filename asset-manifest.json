@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a173817.css",
-    "main.js": "/static/js/main.398f8391.js",
-    "static/js/787.492f774f.chunk.js": "/static/js/787.492f774f.chunk.js",
-    "static/media/foto.png": "/static/media/foto.c8cfcb68b7d8aee277a4.png",
-    "static/media/profile.svg": "/static/media/profile.c5d6ec1192cb153ac0ebcb14d1d763af.svg",
-    "static/media/recent.svg": "/static/media/recent.eaf1b96cc60cb34f9370d7c52c9d9317.svg",
-    "static/media/notif.svg": "/static/media/notif.1dcd8eb160970db1f0caa5908b381d39.svg",
-    "static/media/EventsIcon.svg": "/static/media/EventsIcon.6d04872e807ad43be9ca37a6050aa1fa.svg",
-    "static/media/toga.svg": "/static/media/toga.5ed463df892144d4f00ddb80eddb298f.svg",
-    "static/media/TimelinePic.svg": "/static/media/TimelinePic.ccce47192fec4d427eaa3cbd55f56c5a.svg",
-    "index.html": "/index.html",
-    "static/media/fileIcon.svg": "/static/media/fileIcon.10cc0e45239f02d38f23cda7b01be290.svg",
-    "static/media/calendarIcon.svg": "/static/media/calendarIcon.9e256d162fdd05e0111e26e3adc3da57.svg",
-    "static/media/TimelineHistory.svg": "/static/media/TimelineHistory.ecfa3e70d223d92f5a35248d13b7c936.svg",
-    "static/media/dashboardIcon.svg": "/static/media/dashboardIcon.c55a662840455b86623dd2c795a7ad2e.svg",
-    "static/media/homeIcon.svg": "/static/media/homeIcon.fb31a31685d57f03abb59015c055befb.svg",
-    "static/media/rightArrow.svg": "/static/media/rightArrow.76836d57640b846145b82ea9d14d4e67.svg",
-    "static/media/leftArrow.svg": "/static/media/leftArrow.d4bb18062083d0e7a5245a3858b8183d.svg",
-    "static/media/TimelineFilter.svg": "/static/media/TimelineFilter.f7faa4375841fdaae3d4ffce25073632.svg",
-    "main.4a173817.css.map": "/static/css/main.4a173817.css.map",
-    "main.398f8391.js.map": "/static/js/main.398f8391.js.map",
-    "787.492f774f.chunk.js.map": "/static/js/787.492f774f.chunk.js.map"
+    "main.css": "/VclassRangga/static/css/main.4a173817.css",
+    "main.js": "/VclassRangga/static/js/main.493d9029.js",
+    "static/js/787.492f774f.chunk.js": "/VclassRangga/static/js/787.492f774f.chunk.js",
+    "static/media/foto.png": "/VclassRangga/static/media/foto.c8cfcb68b7d8aee277a4.png",
+    "static/media/profile.svg": "/VclassRangga/static/media/profile.c5d6ec1192cb153ac0ebcb14d1d763af.svg",
+    "static/media/recent.svg": "/VclassRangga/static/media/recent.eaf1b96cc60cb34f9370d7c52c9d9317.svg",
+    "static/media/notif.svg": "/VclassRangga/static/media/notif.1dcd8eb160970db1f0caa5908b381d39.svg",
+    "static/media/EventsIcon.svg": "/VclassRangga/static/media/EventsIcon.6d04872e807ad43be9ca37a6050aa1fa.svg",
+    "static/media/toga.svg": "/VclassRangga/static/media/toga.5ed463df892144d4f00ddb80eddb298f.svg",
+    "static/media/TimelinePic.svg": "/VclassRangga/static/media/TimelinePic.ccce47192fec4d427eaa3cbd55f56c5a.svg",
+    "index.html": "/VclassRangga/index.html",
+    "static/media/fileIcon.svg": "/VclassRangga/static/media/fileIcon.10cc0e45239f02d38f23cda7b01be290.svg",
+    "static/media/calendarIcon.svg": "/VclassRangga/static/media/calendarIcon.9e256d162fdd05e0111e26e3adc3da57.svg",
+    "static/media/TimelineHistory.svg": "/VclassRangga/static/media/TimelineHistory.ecfa3e70d223d92f5a35248d13b7c936.svg",
+    "static/media/dashboardIcon.svg": "/VclassRangga/static/media/dashboardIcon.c55a662840455b86623dd2c795a7ad2e.svg",
+    "static/media/homeIcon.svg": "/VclassRangga/static/media/homeIcon.fb31a31685d57f03abb59015c055befb.svg",
+    "static/media/rightArrow.svg": "/VclassRangga/static/media/rightArrow.76836d57640b846145b82ea9d14d4e67.svg",
+    "static/media/leftArrow.svg": "/VclassRangga/static/media/leftArrow.d4bb18062083d0e7a5245a3858b8183d.svg",
+    "static/media/TimelineFilter.svg": "/VclassRangga/static/media/TimelineFilter.f7faa4375841fdaae3d4ffce25073632.svg",
+    "main.4a173817.css.map": "/VclassRangga/static/css/main.4a173817.css.map",
+    "main.493d9029.js.map": "/VclassRangga/static/js/main.493d9029.js.map",
+    "787.492f774f.chunk.js.map": "/VclassRangga/static/js/787.492f774f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a173817.css",
-    "static/js/main.398f8391.js"
+    "static/js/main.493d9029.js"
   ]
 }
